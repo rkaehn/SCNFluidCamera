@@ -6,7 +6,7 @@
 SCNFluidCamera provides a smooth, multi-touch enabled camera controller for SceneKit. 
 It works on iOS and macOS using Mac Catalyst and can be easily customized for your use case.
 
-### 💻 Installing
+### 💻 Installation
 
 Just add the SCNFluidCamera.swift file to your project and set it up in the view controller of your SCNView like this:
 
